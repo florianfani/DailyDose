@@ -3,7 +3,7 @@ import hero1 from "../img/barista1.jpg";
 
 function Hero() {
   return (
-    <div className="hero-wrapper relative bg-center bg-cover">
+    <div className="hero-wrapper relative bg-center bg-cover overflow-hidden">
       <img
         src={hero1}
         alt="Hero Image"
@@ -20,4 +20,5 @@ function Hero() {
     </div>
   );
 }
+
 export default Hero;
