@@ -22,7 +22,6 @@ function Footer() {
           <h2 className="font-bold text-lg mb-3">Links</h2>
           <h2 className="mb-3 text-[#ff7404] cursor-pointer">Home</h2>
           <h2 className="mb-3 text-[#ff7404] cursor-pointer">Menu</h2>
-          <h2 className=" text-[#ff7404] cursor-pointer">About</h2>
         </div>
       </div>
 
