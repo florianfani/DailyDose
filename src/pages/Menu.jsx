@@ -26,7 +26,7 @@ function Menu() {
         <div className="">
           <button
             onClick={() => setSelectedTab("Cocktails")}
-            className={`font-semibold py-4 px-6 rounded-md ${
+            className={`font-semibold py-4 px-6 rounded-md hover:text-[#ff7404] hover:duration-500 duration-500 ${
               selectedTab === "Cocktails"
                 ? "bg-transparent text-[#FFFFFF]"
                 : "text-[#FFFFFF]"
@@ -41,7 +41,7 @@ function Menu() {
         <div className="flex flex-col">
           <button
             onClick={() => setSelectedTab("Food")}
-            className={`font-semibold py-4 px-6 rounded-md ${
+            className={`font-semibold py-4 px-6 rounded-md hover:text-[#ff7404] hover:duration-500 duration-500 ${
               selectedTab === "Food"
                 ? "bg-transparent text-[#FFFFFF]"
                 : "text-[#FFFFFF]"
@@ -56,7 +56,7 @@ function Menu() {
         <div className="">
           <button
             onClick={() => setSelectedTab("Smoothies")}
-            className={`font-semibold py-4 px-6 rounded-md ${
+            className={`font-semibold py-4 px-6 rounded-md hover:text-[#ff7404] hover:duration-500 duration-500 ${
               selectedTab === "Smoothies"
                 ? "bg-transparent text-[#FFFFFF]"
                 : "text-[#FFFFFF]"

@@ -12,13 +12,13 @@ function Navbar() {
         <div className="flex items-center">
           <h2
             onClick={() => navigate("/")}
-            className="text-white mr-7 cursor-pointer"
+            className="text-white mr-7 cursor-pointer hover:text-[#ff7404] hover:duration-500 duration-500"
           >
             Home
           </h2>
           <h2
             onClick={() => navigate("/menu")}
-            className="text-white cursor-pointer"
+            className="text-white cursor-pointer hover:text-[#ff7404] hover:duration-500 duration-500"
           >
             Menu
           </h2>

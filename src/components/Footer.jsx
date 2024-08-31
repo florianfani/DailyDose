@@ -1,6 +1,9 @@
 import React from "react";
+import { useNavigate } from "react-router-dom";
 
 function Footer() {
+  const navigate = useNavigate();
+
   return (
     <div className="footer-container mt-10 w-full left-0 bottom-0 right-0">
       <div className="footer-data px-3 md:px-28 md:flex justify-around">
@@ -20,8 +23,18 @@ function Footer() {
         </div>
         <div className="footer-links mb-5">
           <h2 className="font-bold text-lg mb-3">Links</h2>
-          <h2 className="mb-3 text-[#ff7404] cursor-pointer">Home</h2>
-          <h2 className="mb-3 text-[#ff7404] cursor-pointer">Menu</h2>
+          <h2
+            onClick={() => navigate("/")}
+            className="mb-3 text-[#ff7404] cursor-pointer"
+          >
+            Home
+          </h2>
+          <h2
+            onClick={() => navigate("/menu")}
+            className="mb-3 text-[#ff7404] cursor-pointer"
+          >
+            Menu
+          </h2>
         </div>
       </div>
 
