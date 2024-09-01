@@ -23,8 +23,19 @@ function FoodMenu() {
               <h2 className="text-white text-xl font-semibold">Margarita</h2>
               <h2 className="text-white">Sos domatesh dhe djath</h2>
             </div>
-            <div className="ml-3">
-              <h2 className="text-white">5.00</h2>
+            <div className="ml-3 flex gap-x-3">
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">2.50€</h2>
+                <h2 className="text-white text-xs">22cm</h2>
+              </div>
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">5.00€</h2>
+                <h2 className="text-white text-xs">32cm</h2>
+              </div>
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">8.00€</h2>
+                <h2 className="text-white text-xs">42cm</h2>
+              </div>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -32,8 +43,19 @@ function FoodMenu() {
               <h2 className="text-white text-xl font-semibold">Suxhuk</h2>
               <h2 className="text-white">Sos domatesh, djath, suxhuk vici</h2>
             </div>
-            <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+            <div className="ml-3 flex gap-x-3">
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">3.00€</h2>
+                <h2 className="text-white text-xs">22cm</h2>
+              </div>
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">6.00€</h2>
+                <h2 className="text-white text-xs">32cm</h2>
+              </div>
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">9.00€</h2>
+                <h2 className="text-white text-xs">42cm</h2>
+              </div>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -43,8 +65,19 @@ function FoodMenu() {
                 Sos domatesh, djath, kepurdha te freskta
               </h2>
             </div>
-            <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+            <div className="ml-3 flex gap-x-3">
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">3.00€</h2>
+                <h2 className="text-white text-xs">22cm</h2>
+              </div>
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">6.00€</h2>
+                <h2 className="text-white text-xs">32cm</h2>
+              </div>
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">9.00€</h2>
+                <h2 className="text-white text-xs">42cm</h2>
+              </div>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -52,8 +85,19 @@ function FoodMenu() {
               <h2 className="text-white text-xl font-semibold">Proshuto</h2>
               <h2 className="text-white">Sos domatesh, djath, proshute vici</h2>
             </div>
-            <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+            <div className="ml-3 flex gap-x-3">
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">3.00€</h2>
+                <h2 className="text-white text-xs">22cm</h2>
+              </div>
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">6.00€</h2>
+                <h2 className="text-white text-xs">32cm</h2>
+              </div>
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">9.00€</h2>
+                <h2 className="text-white text-xs">42cm</h2>
+              </div>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -61,8 +105,19 @@ function FoodMenu() {
               <h2 className="text-white text-xl font-semibold">Tuna</h2>
               <h2 className="text-white">Sos domatesh, djath, tuna</h2>
             </div>
-            <div className="ml-3">
-              <h2 className="text-white">3.50</h2>
+            <div className="ml-3 flex gap-x-3">
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">3.00€</h2>
+                <h2 className="text-white text-xs">22cm</h2>
+              </div>
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">6.00€</h2>
+                <h2 className="text-white text-xs">32cm</h2>
+              </div>
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">9.50€</h2>
+                <h2 className="text-white text-xs">42cm</h2>
+              </div>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -72,8 +127,19 @@ function FoodMenu() {
                 Sos domatesh, mozzarella, djath feta, spinaqm veze
               </h2>
             </div>
-            <div className="ml-3">
-              <h2 className="text-white">4.50</h2>
+            <div className="ml-3 flex gap-x-3">
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">3.00€</h2>
+                <h2 className="text-white text-xs">22cm</h2>
+              </div>
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">6.00€</h2>
+                <h2 className="text-white text-xs">32cm</h2>
+              </div>
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">9.50€</h2>
+                <h2 className="text-white text-xs">42cm</h2>
+              </div>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -85,8 +151,19 @@ function FoodMenu() {
                 Sos domatesh, djath, brokoli, mish pule, salce hudhre
               </h2>
             </div>
-            <div className="ml-3">
-              <h2 className="text-white">3.00</h2>
+            <div className="ml-3 flex gap-x-3">
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">3.00€</h2>
+                <h2 className="text-white text-xs">22cm</h2>
+              </div>
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">6.00€</h2>
+                <h2 className="text-white text-xs">32cm</h2>
+              </div>
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">9.50€</h2>
+                <h2 className="text-white text-xs">42cm</h2>
+              </div>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -94,8 +171,19 @@ function FoodMenu() {
               <h2 className="text-white text-xl font-semibold">Broccoli</h2>
               <h2 className="text-white">Sos domatesh, djath, brokoli</h2>
             </div>
-            <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+            <div className="ml-3 flex gap-x-3">
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">3.00€</h2>
+                <h2 className="text-white text-xs">22cm</h2>
+              </div>
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">5.50€</h2>
+                <h2 className="text-white text-xs">32cm</h2>
+              </div>
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">9.00€</h2>
+                <h2 className="text-white text-xs">42cm</h2>
+              </div>
             </div>
           </div>
         </div>
@@ -114,8 +202,19 @@ function FoodMenu() {
                 Sos domatesh, djath, suxhuk i tymosur
               </h2>
             </div>
-            <div className="ml-3">
-              <h2 className="text-white">6.00</h2>
+            <div className="ml-3 flex gap-x-3">
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">3.00€</h2>
+                <h2 className="text-white text-xs">22cm</h2>
+              </div>
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">6.00€</h2>
+                <h2 className="text-white text-xs">32cm</h2>
+              </div>
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">9.00€</h2>
+                <h2 className="text-white text-xs">42cm</h2>
+              </div>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -128,8 +227,19 @@ function FoodMenu() {
                 dhe kepurdha te freskta
               </h2>
             </div>
-            <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+            <div className="ml-3 flex gap-x-3">
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">3.00€</h2>
+                <h2 className="text-white text-xs">22cm</h2>
+              </div>
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">6.00€</h2>
+                <h2 className="text-white text-xs">32cm</h2>
+              </div>
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">9.00€</h2>
+                <h2 className="text-white text-xs">42cm</h2>
+              </div>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -139,8 +249,19 @@ function FoodMenu() {
                 Sos domatesh, djath, rukola, proshute vici e tymosur, parmezan
               </h2>
             </div>
-            <div className="ml-3">
-              <h2 className="text-white">4.50</h2>
+            <div className="ml-3 flex gap-x-3">
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">3.00€</h2>
+                <h2 className="text-white text-xs">22cm</h2>
+              </div>
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">6.00€</h2>
+                <h2 className="text-white text-xs">32cm</h2>
+              </div>
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">9.50€</h2>
+                <h2 className="text-white text-xs">42cm</h2>
+              </div>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -150,8 +271,19 @@ function FoodMenu() {
                 Sos domatesh, djath, proshute pule e tymosur
               </h2>
             </div>
-            <div className="ml-3">
-              <h2 className="text-white">4.50</h2>
+            <div className="ml-3 flex gap-x-3">
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">3.00€</h2>
+                <h2 className="text-white text-xs">22cm</h2>
+              </div>
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">6.00€</h2>
+                <h2 className="text-white text-xs">32cm</h2>
+              </div>
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">9.00€</h2>
+                <h2 className="text-white text-xs">42cm</h2>
+              </div>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -161,8 +293,19 @@ function FoodMenu() {
                 Sos domatesh, djath, suxhuk, proshute vici, kepurdha te freskta
               </h2>
             </div>
-            <div className="ml-3">
-              <h2 className="text-white">4.50</h2>
+            <div className="ml-3 flex gap-x-3">
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">3.00€</h2>
+                <h2 className="text-white text-xs">22cm</h2>
+              </div>
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">6.00€</h2>
+                <h2 className="text-white text-xs">32cm</h2>
+              </div>
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">9.00€</h2>
+                <h2 className="text-white text-xs">42cm</h2>
+              </div>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -174,8 +317,19 @@ function FoodMenu() {
                 Sos domatesh, djath, mozzarella, gorgonzola, krem djath
               </h2>
             </div>
-            <div className="ml-3">
-              <h2 className="text-white">7.00</h2>
+            <div className="ml-3 flex gap-x-3">
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">3.00€</h2>
+                <h2 className="text-white text-xs">22cm</h2>
+              </div>
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">6.00€</h2>
+                <h2 className="text-white text-xs">32cm</h2>
+              </div>
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">9.00€</h2>
+                <h2 className="text-white text-xs">42cm</h2>
+              </div>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -185,8 +339,19 @@ function FoodMenu() {
                 Sos domatesh, djath feta, ullinj, domatini
               </h2>
             </div>
-            <div className="ml-3">
-              <h2 className="text-white">6.00</h2>
+            <div className="ml-3 flex gap-x-3">
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">3.00€</h2>
+                <h2 className="text-white text-xs">22cm</h2>
+              </div>
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">6.00€</h2>
+                <h2 className="text-white text-xs">32cm</h2>
+              </div>
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">9.00€</h2>
+                <h2 className="text-white text-xs">42cm</h2>
+              </div>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -197,8 +362,19 @@ function FoodMenu() {
                 speca, miser, qepe
               </h2>
             </div>
-            <div className="ml-3">
-              <h2 className="text-white">3.00</h2>
+            <div className="ml-3 flex gap-x-3">
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">3.00€</h2>
+                <h2 className="text-white text-xs">22cm</h2>
+              </div>
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">5.50€</h2>
+                <h2 className="text-white text-xs">32cm</h2>
+              </div>
+              <div className="flex flex-col items-center">
+                <h2 className="text-white font-bold text-lg">9.00€</h2>
+                <h2 className="text-white text-xs">42cm</h2>
+              </div>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -211,7 +387,7 @@ function FoodMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">3.00</h2>
+              <h2 className="text-white font-bold text-lg">6.50€</h2>
             </div>
           </div>
         </div>
@@ -235,7 +411,7 @@ function FoodMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">5.00</h2>
+              <h2 className="text-white font-bold text-lg">6.50€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -246,7 +422,7 @@ function FoodMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+              <h2 className="text-white font-bold text-lg">6.50€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -259,7 +435,7 @@ function FoodMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+              <h2 className="text-white font-bold text-lg">6.50€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -271,7 +447,7 @@ function FoodMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+              <h2 className="text-white font-bold text-lg">6.50€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -282,7 +458,7 @@ function FoodMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">3.50</h2>
+              <h2 className="text-white font-bold text-lg">6.50€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -294,7 +470,7 @@ function FoodMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">4.50</h2>
+              <h2 className="text-white font-bold text-lg">6.50€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -303,7 +479,7 @@ function FoodMenu() {
               <h2 className="text-white">Sos domatesh, mozzarella e fresket</h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">3.00</h2>
+              <h2 className="text-white font-bold text-lg">6.50€</h2>
             </div>
           </div>
         </div>
@@ -327,7 +503,7 @@ function FoodMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">5.00</h2>
+              <h2 className="text-white font-bold text-lg">5.50€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -338,7 +514,7 @@ function FoodMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+              <h2 className="text-white font-bold text-lg">5.50€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -350,7 +526,7 @@ function FoodMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+              <h2 className="text-white font-bold text-lg">5.00€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -361,7 +537,7 @@ function FoodMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+              <h2 className="text-white font-bold text-lg">5.50€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -372,7 +548,7 @@ function FoodMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">3.50</h2>
+              <h2 className="text-white font-bold text-lg">5.00€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -381,7 +557,7 @@ function FoodMenu() {
               <h2 className="text-white">Supe me domate</h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">4.50</h2>
+              <h2 className="text-white font-bold text-lg">2.50€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -390,7 +566,7 @@ function FoodMenu() {
               <h2 className="text-white">Supe me pule dhe perime</h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">3.00</h2>
+              <h2 className="text-white font-bold text-lg">2.50€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -399,7 +575,7 @@ function FoodMenu() {
               <h2 className="text-white">Supe me karrote</h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">3.00</h2>
+              <h2 className="text-white font-bold text-lg">2.50€</h2>
             </div>
           </div>
         </div>
@@ -425,7 +601,7 @@ function FoodMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">5.00</h2>
+              <h2 className="text-white font-bold text-lg">6.00€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -436,7 +612,7 @@ function FoodMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+              <h2 className="text-white font-bold text-lg">6.00€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -447,7 +623,7 @@ function FoodMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+              <h2 className="text-white font-bold text-lg">6.00€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -460,7 +636,7 @@ function FoodMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+              <h2 className="text-white font-bold text-lg">6.50€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -473,7 +649,7 @@ function FoodMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">3.50</h2>
+              <h2 className="text-white font-bold text-lg">6.00€</h2>
             </div>
           </div>
         </div>
@@ -497,7 +673,7 @@ function FoodMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">5.00</h2>
+              <h2 className="text-white font-bold text-lg">5.00€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -506,7 +682,7 @@ function FoodMenu() {
               <h2 className="text-white">Rizoto me mish vici</h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+              <h2 className="text-white font-bold text-lg">6.00€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -515,7 +691,7 @@ function FoodMenu() {
               <h2 className="text-white">Rizoto me kepurdha te fresketa</h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+              <h2 className="text-white font-bold text-lg">5.00€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -526,7 +702,7 @@ function FoodMenu() {
               <h2 className="text-white">Rizoto me mish pule dhe perime</h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+              <h2 className="text-white font-bold text-lg">5.50€</h2>
             </div>
           </div>
         </div>
@@ -549,7 +725,7 @@ function FoodMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">5.00</h2>
+              <h2 className="text-white font-bold text-lg">4.00€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -562,7 +738,7 @@ function FoodMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+              <h2 className="text-white font-bold text-lg">4.00€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -575,7 +751,7 @@ function FoodMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+              <h2 className="text-white font-bold text-lg">4.00€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -588,7 +764,7 @@ function FoodMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+              <h2 className="text-white font-bold text-lg">4.00€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -598,7 +774,7 @@ function FoodMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+              <h2 className="text-white font-bold text-lg">4.00€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -607,7 +783,7 @@ function FoodMenu() {
               <h2 className="text-white">Pete te skuqura ne vaj me perime</h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+              <h2 className="text-white font-bold text-lg">3.00€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -620,7 +796,7 @@ function FoodMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+              <h2 className="text-white font-bold text-lg">2.50€</h2>
             </div>
           </div>
         </div>
@@ -644,7 +820,7 @@ function FoodMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">5.00</h2>
+              <h2 className="text-white font-bold text-lg">2.80€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -655,7 +831,7 @@ function FoodMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+              <h2 className="text-white font-bold text-lg">2.80€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -666,7 +842,7 @@ function FoodMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+              <h2 className="text-white font-bold text-lg">2.80€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -677,7 +853,7 @@ function FoodMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+              <h2 className="text-white font-bold text-lg">2.80€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -688,7 +864,7 @@ function FoodMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+              <h2 className="text-white font-bold text-lg">2.80€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -700,7 +876,7 @@ function FoodMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+              <h2 className="text-white font-bold text-lg">2.80€</h2>
             </div>
           </div>
         </div>
@@ -721,7 +897,7 @@ function FoodMenu() {
               <h2 className="text-white text-xl font-semibold">Sach Attack</h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">5.00</h2>
+              <h2 className="text-white font-bold text-lg">4.00€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -733,7 +909,7 @@ function FoodMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+              <h2 className="text-white font-bold text-lg">4.00€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -743,7 +919,7 @@ function FoodMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+              <h2 className="text-white font-bold text-lg">4.00€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -754,7 +930,7 @@ function FoodMenu() {
               <h2 className="text-white">3 mini burgers</h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+              <h2 className="text-white font-bold text-lg">4.60€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -764,7 +940,7 @@ function FoodMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+              <h2 className="text-white font-bold text-lg">4.00€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -774,7 +950,7 @@ function FoodMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+              <h2 className="text-white font-bold text-lg">4.00€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -782,7 +958,7 @@ function FoodMenu() {
               <h2 className="text-white text-xl font-semibold">Tuna Melt</h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+              <h2 className="text-white font-bold text-lg">4.00€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -793,7 +969,7 @@ function FoodMenu() {
               <h2 className="text-white">With sourdough bread</h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+              <h2 className="text-white font-bold text-lg">4.00€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -804,7 +980,7 @@ function FoodMenu() {
               <h2 className="text-white">With sourdough bread</h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white">4.00</h2>
+              <h2 className="text-white font-bold text-lg">4.00€</h2>
             </div>
           </div>
         </div>
