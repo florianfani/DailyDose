@@ -902,7 +902,7 @@ function FoodMenu() {
           className="w-[1140px] h-[900px] md:w-full md:h-full object-cover brightness-50"
         />
         <div className="absolute inset-0 flex flex-col justify-center gap-y-6">
-          <p className="text-3xl md:text-5xl font-bold mx-auto text-white ">
+          <p className="text-3xl md:text-5xl font-bold text-center mx-auto text-white ">
             Burgers and Special Sandwiches
           </p>
 
