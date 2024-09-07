@@ -15,7 +15,7 @@ function SmoothiesMenu() {
         />
         <div className="absolute inset-0 flex flex-col justify-center gap-y-6">
           <p className="text-3xl md:text-5xl font-bold mx-auto text-white ">
-            Smoothies
+            Nuts
           </p>
 
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -23,7 +23,7 @@ function SmoothiesMenu() {
               <h2 className="text-white text-xl font-semibold">Dredhëz</h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white font-bold text-lg">2.50€</h2>
+              <h2 className="text-white font-bold text-xl">2.50€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -31,7 +31,7 @@ function SmoothiesMenu() {
               <h2 className="text-white text-xl font-semibold">Karramel</h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white font-bold text-lg">2.50€</h2>
+              <h2 className="text-white font-bold text-xl">2.50€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -39,7 +39,7 @@ function SmoothiesMenu() {
               <h2 className="text-white text-xl font-semibold">Kiwi</h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white font-bold text-lg">2.50€</h2>
+              <h2 className="text-white font-bold text-xl">2.50€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -47,7 +47,7 @@ function SmoothiesMenu() {
               <h2 className="text-white text-xl font-semibold">Banane</h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white font-bold text-lg">2.50€</h2>
+              <h2 className="text-white font-bold text-xl">2.50€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -55,7 +55,7 @@ function SmoothiesMenu() {
               <h2 className="text-white text-xl font-semibold">Fruta Mali</h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white font-bold text-lg">2.50€</h2>
+              <h2 className="text-white font-bold text-xl">2.50€</h2>
             </div>
           </div>
         </div>

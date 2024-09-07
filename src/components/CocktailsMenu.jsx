@@ -28,7 +28,7 @@ function CocktailsMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white font-bold text-lg">5.00€</h2>
+              <h2 className="text-white font-bold text-xl">5.00€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -39,7 +39,7 @@ function CocktailsMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white font-bold text-lg">4.00€</h2>
+              <h2 className="text-white font-bold text-xl">4.00€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -50,7 +50,7 @@ function CocktailsMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white font-bold text-lg">4.00€</h2>
+              <h2 className="text-white font-bold text-xl">4.00€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -59,7 +59,7 @@ function CocktailsMenu() {
               <h2 className="text-white text-xs">Rum, Lime, Mentë, Sprite</h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white font-bold text-lg">4.00€</h2>
+              <h2 className="text-white font-bold text-xl">4.00€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -72,7 +72,7 @@ function CocktailsMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white font-bold text-lg">3.50€</h2>
+              <h2 className="text-white font-bold text-xl">3.50€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -85,7 +85,7 @@ function CocktailsMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white font-bold text-lg">4.50€</h2>
+              <h2 className="text-white font-bold text-xl">4.50€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -96,7 +96,7 @@ function CocktailsMenu() {
               <h2 className="text-white text-xs">Cranberry, Portokall</h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white font-bold text-lg">3.00€</h2>
+              <h2 className="text-white font-bold text-xl">3.00€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -107,7 +107,7 @@ function CocktailsMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white font-bold text-lg">4.00€</h2>
+              <h2 className="text-white font-bold text-xl">4.00€</h2>
             </div>
           </div>
         </div>
@@ -129,7 +129,7 @@ function CocktailsMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white font-bold text-lg">6.00€</h2>
+              <h2 className="text-white font-bold text-xl">6.00€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -142,7 +142,7 @@ function CocktailsMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white font-bold text-lg">4.00€</h2>
+              <h2 className="text-white font-bold text-xl">4.00€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -151,7 +151,7 @@ function CocktailsMenu() {
               <h2 className="text-white text-xs">Rum, Coconut, Ananas Juice</h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white font-bold text-lg">4.50€</h2>
+              <h2 className="text-white font-bold text-xl">4.50€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -162,7 +162,7 @@ function CocktailsMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white font-bold text-lg">4.50€</h2>
+              <h2 className="text-white font-bold text-xl">4.50€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -175,7 +175,7 @@ function CocktailsMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white font-bold text-lg">4.50€</h2>
+              <h2 className="text-white font-bold text-xl">4.50€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -188,7 +188,7 @@ function CocktailsMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white font-bold text-lg">7.00€</h2>
+              <h2 className="text-white font-bold text-xl">7.00€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -199,7 +199,7 @@ function CocktailsMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white font-bold text-lg">6.00€</h2>
+              <h2 className="text-white font-bold text-xl">6.00€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -209,7 +209,7 @@ function CocktailsMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white font-bold text-lg">3.00€</h2>
+              <h2 className="text-white font-bold text-xl">3.00€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -220,7 +220,7 @@ function CocktailsMenu() {
               </h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white font-bold text-lg">4.00€</h2>
+              <h2 className="text-white font-bold text-xl">4.00€</h2>
             </div>
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
@@ -228,7 +228,7 @@ function CocktailsMenu() {
               <h2 className="text-white text-xl font-semibold">Rose Piscine</h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white font-bold text-lg">3.50€</h2>
+              <h2 className="text-white font-bold text-xl">3.50€</h2>
             </div>
           </div>
         </div>
