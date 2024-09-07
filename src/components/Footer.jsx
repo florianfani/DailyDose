@@ -10,7 +10,7 @@ function Footer() {
         <div className="footer-orari mb-5">
           <h2 className="font-bold text-lg mb-3">Orari i Punës</h2>
           <p className="mb-1">E Hënë - E Diel</p>
-          <p className="text-[#868e96]">07:00 - 00:00</p>
+          <p className="text-[#868e96] font-sans">07:00 - 00:00</p>
         </div>
         <div className="footer-adress mb-5">
           <h2 className="font-bold text-lg mb-3">Informata shtesë</h2>
@@ -19,7 +19,7 @@ function Footer() {
           <p className="text-[#868e96] mb-3">The Village, Ferizaj</p>
 
           <h2 className="mb-1">Numri i Telefonit</h2>
-          <p className="text-[#868e96]">+383 45 000 000</p>
+          <p className="text-[#868e96] font-sans">+383 45 000 000</p>
         </div>
         <div className="footer-links mb-5">
           <h2 className="font-bold text-lg mb-3">Links</h2>

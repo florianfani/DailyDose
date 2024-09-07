@@ -34,9 +34,13 @@ function Menu() {
           >
             Cocktails
           </button>
-          {selectedTab === "Cocktails" && (
-            <div className="orangeline w-[100%] mx-auto border-b border-[1.5px] border-[#ff7404]"></div>
-          )}
+          <div className="h-[1.5px] w-full overflow-hidden">
+            <div
+              className={`orangeline w-full mx-auto border-b border-[1.5px] border-[#ff7404] transition-transform duration-300 ease-out ${
+                selectedTab === "Cocktails" ? "scale-x-100" : "scale-x-0"
+              }`}
+            ></div>
+          </div>
         </div>
         <div className="flex flex-col">
           <button
@@ -49,30 +53,38 @@ function Menu() {
           >
             Food
           </button>
-          {selectedTab === "Food" && (
-            <div className="orangeline w-[100%] mx-auto border-b border-[1.5px] border-[#ff7404]"></div>
-          )}
+          <div className="h-[1.5px] w-full overflow-hidden">
+            <div
+              className={`orangeline w-full mx-auto border-b border-[1.5px] border-[#ff7404] transition-transform duration-300 ease-out ${
+                selectedTab === "Food" ? "scale-x-100" : "scale-x-0"
+              }`}
+            ></div>
+          </div>
         </div>
         <div className="">
           <button
-            onClick={() => setSelectedTab("Smoothies")}
+            onClick={() => setSelectedTab("Nuts")}
             className={`font-semibold py-4 px-6 rounded-md hover:text-[#ff7404] hover:duration-500 duration-500 ${
-              selectedTab === "Smoothies"
+              selectedTab === "Nuts"
                 ? "bg-transparent text-[#FFFFFF]"
                 : "text-[#FFFFFF]"
             }`}
           >
-            Smoothies
+            Nuts
           </button>
-          {selectedTab === "Smoothies" && (
-            <div className="orangeline w-[100%] mx-auto border-b border-[1.5px] border-[#ff7404]"></div>
-          )}
+          <div className="h-[1.5px] w-full overflow-hidden">
+            <div
+              className={`orangeline w-full mx-auto border-b border-[1.5px] border-[#ff7404] transition-transform duration-300 ease-out ${
+                selectedTab === "Nuts" ? "scale-x-100" : "scale-x-0"
+              }`}
+            ></div>
+          </div>
         </div>
       </div>
       <div className="">
         {selectedTab === "Cocktails" && <CocktailsMenu />}
         {selectedTab === "Food" && <FoodMenu />}
-        {selectedTab === "Smoothies" && <SmoothiesMenu />}
+        {selectedTab === "Nuts" && <SmoothiesMenu />}
       </div>
       <Footer />
     </div>
