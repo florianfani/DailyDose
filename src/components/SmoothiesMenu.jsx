@@ -20,7 +20,8 @@ function SmoothiesMenu() {
 
           <div className="flex items-center px-3 md:px-64 justify-between">
             <div className="flex flex-col">
-              <h2 className="text-white text-xl font-semibold">Dredhëz</h2>
+              <h2 className="text-white text-xl font-semibold">Lajthi</h2>
+              <h2 className="text-white text-xs">100gr</h2>
             </div>
             <div className="ml-3">
               <h2 className="text-white font-bold text-xl">2.50€</h2>
@@ -28,7 +29,8 @@ function SmoothiesMenu() {
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
             <div className="flex flex-col">
-              <h2 className="text-white text-xl font-semibold">Karramel</h2>
+              <h2 className="text-white text-xl font-semibold">Badem</h2>
+              <h2 className="text-white text-xs">100gr</h2>
             </div>
             <div className="ml-3">
               <h2 className="text-white font-bold text-xl">2.50€</h2>
@@ -36,26 +38,10 @@ function SmoothiesMenu() {
           </div>
           <div className="flex items-center px-3 md:px-64 justify-between">
             <div className="flex flex-col">
-              <h2 className="text-white text-xl font-semibold">Kiwi</h2>
+              <h2 className="text-white text-xl font-semibold">Kikirik</h2>
             </div>
             <div className="ml-3">
-              <h2 className="text-white font-bold text-xl">2.50€</h2>
-            </div>
-          </div>
-          <div className="flex items-center px-3 md:px-64 justify-between">
-            <div className="flex flex-col">
-              <h2 className="text-white text-xl font-semibold">Banane</h2>
-            </div>
-            <div className="ml-3">
-              <h2 className="text-white font-bold text-xl">2.50€</h2>
-            </div>
-          </div>
-          <div className="flex items-center px-3 md:px-64 justify-between">
-            <div className="flex flex-col">
-              <h2 className="text-white text-xl font-semibold">Fruta Mali</h2>
-            </div>
-            <div className="ml-3">
-              <h2 className="text-white font-bold text-xl">2.50€</h2>
+              <h2 className="text-white font-bold text-xl">1.50€</h2>
             </div>
           </div>
         </div>
