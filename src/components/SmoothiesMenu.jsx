@@ -13,7 +13,7 @@ function SmoothiesMenu() {
           alt="Cocktail Image"
           className="w-[1140px] h-[900px] md:w-full md:h-full object-cover brightness-50"
         />
-        <div className="absolute inset-0 flex flex-col justify-center gap-y-6">
+        <div className="absolute inset-0 flex flex-col mt-32 md:mt-52 gap-y-6">
           <p className="text-3xl md:text-5xl font-bold mx-auto text-white ">
             Nuts
           </p>
