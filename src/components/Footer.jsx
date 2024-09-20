@@ -17,9 +17,6 @@ function Footer() {
 
           <p className="mb-1">Adresa:</p>
           <p className="text-[#868e96] mb-3">The Village, Ferizaj</p>
-
-          <h2 className="mb-1">Numri i Telefonit</h2>
-          <p className="text-[#868e96] font-sans">+383 45 000 000</p>
         </div>
         <div className="footer-links mb-5">
           <h2 className="font-bold text-lg mb-3">Links</h2>
