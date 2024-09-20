@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { AiOutlineClose, AiOutlineMenu } from "react-icons/ai";
 import { useNavigate } from "react-router-dom";
+import logo from "../img/daily_inverted.png";
 
 function Navbar() {
   const navigate = useNavigate();
@@ -11,7 +12,9 @@ function Navbar() {
     <div className="bg-gray-950 py-5 w-full">
       <div className="flex justify-between px-5 md:px-64">
         <h2 className="text-3xl font-bold font-playfair text-white">
-          Daily Dose
+          <div className="cursor-pointer -ml-3" onClick={() => navigate("/")}>
+            <img src={logo} alt="" className="w-[150px]" />
+          </div>
         </h2>
         <div className="hidden md:flex items-center">
           <h2

@@ -1,6 +1,5 @@
 import React from "react";
-import mojito from "../img/mojito.jpg";
-import lagoon from "../img/lagoon.jpg";
+import nuts from "../img/nuts.jpg";
 
 //te divi ku o Hero, provon edhe overflow-hidden
 
@@ -9,9 +8,9 @@ function SmoothiesMenu() {
     <div className="menu-wrapper w-full">
       <div className="menu-content relative">
         <img
-          src={mojito}
+          src={nuts}
           alt="Cocktail Image"
-          className="w-[1140px] h-[900px] md:w-full md:h-full object-cover brightness-50"
+          className="w-[1140px] h-[900px] md:w-full md:h-[1000px] object-cover brightness-50"
         />
         <div className="absolute inset-0 flex flex-col mt-32 md:mt-52 gap-y-6">
           <p className="text-3xl md:text-5xl font-bold mx-auto text-white ">
