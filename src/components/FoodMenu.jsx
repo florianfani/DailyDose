@@ -1,6 +1,14 @@
 import React from "react";
 import mojito from "../img/mojito.jpg";
-import lagoon from "../img/lagoon.jpg";
+import pizza1 from "../img/pizza1.jpg";
+import pizza2 from "../img/pizza2.jpg";
+import pizza3 from "../img/pizza3.jpg";
+import salad from "../img/salad.jpg";
+import pasta from "../img/pasta.jpg";
+import rissoto from "../img/rissoto.jpg";
+import burrito from "../img/burrito.jpg";
+import sandwich from "../img/sandwich.jpg";
+import burgir from "../img/burgir.jpg";
 import { FaPizzaSlice } from "react-icons/fa";
 
 //te divi ku o Hero, provon edhe overflow-hidden
@@ -10,9 +18,9 @@ function FoodMenu() {
     <div className="menu-wrapper w-full">
       <div className="menu-content relative">
         <img
-          src={mojito}
+          src={pizza2}
           alt="Cocktail Image"
-          className="w-[1140px] h-[900px] md:w-full md:h-full object-cover brightness-50"
+          className="w-[1140px] h-[900px] md:w-full md:h-[950px] object-cover brightness-50"
         />
         <div className="absolute inset-0 flex flex-col justify-center gap-y-6">
           <p className="text-3xl md:text-5xl font-bold mx-auto text-white ">
@@ -216,7 +224,7 @@ function FoodMenu() {
       </div>
       <div className="menu-content relative">
         <img
-          src={lagoon}
+          src={pizza1}
           alt="Cocktail Image"
           className="w-[1140px] h-[900px] md:w-full md:h-full object-cover brightness-50"
         />
@@ -436,9 +444,9 @@ function FoodMenu() {
       </div>
       <div className="menu-content relative">
         <img
-          src={mojito}
+          src={pizza3}
           alt="Cocktail Image"
-          className="w-[1140px] h-[900px] md:w-full md:h-full object-cover brightness-50"
+          className="w-[1140px] h-[900px] md:w-full md:h-[1000px] object-cover brightness-50"
         />
         <div className="absolute inset-0 flex flex-col justify-center gap-y-6">
           <p className="text-3xl md:text-5xl font-bold mx-auto text-white ">
@@ -530,7 +538,7 @@ function FoodMenu() {
       </div>
       <div className="menu-content relative">
         <img
-          src={mojito}
+          src={salad}
           alt="Cocktail Image"
           className="w-[1140px] h-[900px] md:w-full md:h-full object-cover brightness-50"
         />
@@ -626,7 +634,7 @@ function FoodMenu() {
       </div>
       <div className="menu-content relative">
         <img
-          src={mojito}
+          src={pasta}
           alt="Cocktail Image"
           className="w-[1140px] h-[900px] md:w-full md:h-full object-cover brightness-50"
         />
@@ -700,7 +708,7 @@ function FoodMenu() {
       </div>
       <div className="menu-content relative">
         <img
-          src={mojito}
+          src={rissoto}
           alt="Cocktail Image"
           className="w-[1140px] h-[900px] md:w-full md:h-full object-cover brightness-50"
         />
@@ -757,7 +765,7 @@ function FoodMenu() {
       </div>
       <div className="menu-content relative">
         <img
-          src={mojito}
+          src={burrito}
           alt="Cocktail Image"
           className="w-[1140px] h-[900px] md:w-full md:h-full object-cover brightness-50"
         />
@@ -853,9 +861,9 @@ function FoodMenu() {
       </div>
       <div className="menu-content relative">
         <img
-          src={mojito}
+          src={sandwich}
           alt="Cocktail Image"
-          className="w-[1140px] h-[900px] md:w-full md:h-full object-cover brightness-50"
+          className="w-[1140px] h-[900px] md:w-full md:h-[1000px] object-cover brightness-50"
         />
         <div className="absolute inset-0 flex flex-col justify-center gap-y-6">
           <p className="text-3xl md:text-5xl font-bold mx-auto text-white ">
@@ -933,9 +941,9 @@ function FoodMenu() {
       </div>
       <div className="menu-content relative">
         <img
-          src={mojito}
+          src={burgir}
           alt="Cocktail Image"
-          className="w-[1140px] h-[900px] md:w-full md:h-full object-cover brightness-50"
+          className="w-[1140px] h-[900px] md:w-full md:h-[1000px] object-cover brightness-50"
         />
         <div className="absolute inset-0 flex flex-col justify-center gap-y-6">
           <p className="text-3xl md:text-5xl font-bold text-center mx-auto text-white ">
